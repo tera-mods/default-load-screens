@@ -1,0 +1,7 @@
+{
+	"name": "default-load-screens",
+	"update": "github:tera-mods/default-load-screens",
+	"title": "Default Loading Screens",
+	"author": "Pinkie Pie",
+	"description": "Disables publisher-specific loading screens."
+}
