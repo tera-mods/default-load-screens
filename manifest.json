@@ -2,5 +2,7 @@
 	"data": {
 		"index.js": "MhOiruz/ZVRLws1uQ6Rh1Vir7mEN30xUrebuL5mxRkk=",
 		"mod.json": "XXONPN5eG+/avGj/e0qOLVs1UNFihMdmiQGUW0K/mxY="
-	}
+	},
+	"publicKey": "MCowBQYDK2VwAyEAY31fpV8rIvZ3zGJE6nqoLXcI27/C3xmjDWV7PDavK4w=",
+	"signature": "vQN3nJ7ucUMS5a/IJRoZ/JMDAI3aeO/rlDn4VA0rwqr8O/fVzDaE0pANLTMyvs4rXect484Exno7KT4bE5UeCg=="
 }
